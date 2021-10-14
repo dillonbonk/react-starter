@@ -2,6 +2,6 @@
 
 Version - 1.0
 
-[twitter]: https://twitter.com/dillonbonk
-[instagram]: https://www.instagram.com/dillonbonk/
-[site]: https://bitwavelabs.com/
+twitter: https://twitter.com/dillonbonk
+instagram: https://www.instagram.com/dillonbonk/
+website: https://bitwavelabs.com/
